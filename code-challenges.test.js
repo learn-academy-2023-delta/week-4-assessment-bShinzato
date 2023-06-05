@@ -160,9 +160,9 @@ const noDups = (array1, array2) => {
 // 1. Create a function named NoDups.
 // 2. Takes two parameters, called array1, array2.
 // 3. Use built in method .concat to join both arrays.
-// 4. Use HOF .filter() for the boolean if statement. Checks for duplicates of the same strings. Has three parameters; value, index, array.
+// 4. Use HOF .filter() for the boolean value. Checks for duplicates of the same strings. Has three parameters; value, index, array.
 // 5. return array with built in method .indexOf(value)
         // call upon array; the array that the HOF is called upon.
-        // .indexOf(value); returns the index of the value on iteration.s
+        // .indexOf(value); returns the index of the value on iteration
 // 6. Use strict equality operator set to index.
-        // boolean value(s) it see if .indexOf(value) is strictly equal to index.
+        // boolean value(s) sees if .indexOf(value) is strictly equal to index.
